@@ -1,0 +1,61 @@
+{
+  "category": "miscellaneous",
+  "created_date": "2025-09-15T22:48:57.581652",
+  "default_ports": [
+    80,
+    443,
+    24224
+  ],
+  "dependencies": [],
+  "description": "fluent-bit is a free and open-source log processor. Fluent Bit provides fast and lightweight log processor and forwarder",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/miscellaneous/fluent_bit",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/miscellaneous/fluent_bit",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T22:48:57.581671",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "fluent_bit",
+  "repository_url": "https://github.com/howtomgr/fluent_bit",
+  "spec_version": "2.0",
+  "subcategory": "miscellaneous",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "debian",
+    "ubuntu",
+    "arch",
+    "alpine",
+    "opensuse",
+    "sles",
+    "macos",
+    "freebsd",
+    "windows"
+  ],
+  "tags": [
+    "miscellaneous",
+    "containerization",
+    "observability",
+    "data-storage",
+    "networking",
+    "security",
+    "data-protection"
+  ],
+  "title": "fluent-bit Installation Guide",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/miscellaneous/fluent_bit"
+}
